@@ -1,0 +1,5 @@
+# ninja log v5
+1	8149	6320073911099915	C:/Development/GitHub/DIB-R/dib-render/cuda_dib_render/build/temp.win-amd64-3.8/Release/dr.obj	f060a59ab62cee02
+251	8992	6320073919582919	C:/Development/GitHub/DIB-R/dib-render/cuda_dib_render/build/temp.win-amd64-3.8/Release/dr_cuda_for.obj	874d500382533ed9
+7	7520	6320077620603964	C:/Development/GitHub/DIB-R/dib-render/cuda_dib_render/build/temp.win-amd64-3.8/Release/dr.obj	3371c6a37de01093
+3	7621	6320077621567501	C:/Development/GitHub/DIB-R/dib-render/cuda_dib_render/build/temp.win-amd64-3.8/Release/dr_cuda_for.obj	157adc7b1ab9149c
